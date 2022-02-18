@@ -11,3 +11,4 @@ printf("The average of A B is :%f ",avg);
 getch();
 }
 //this code is written by Ad1tya 
+//Try to run this program on Turbo C++ For Better Results
