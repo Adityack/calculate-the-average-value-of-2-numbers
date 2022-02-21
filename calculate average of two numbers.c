@@ -3,9 +3,10 @@
 #include<conio.h>
 void main()
 {
-clrscr();
+
 int a=5,b=10;
 float avg;
+clrscr();
 avg=(a+b)/2;
 printf("The average of A B is :%f ",avg);
 getch();
